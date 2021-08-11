@@ -76,7 +76,6 @@ fontLoader.load("/fonts/Origin Tech Demo_Regular.json", (font) => {
     cube.position.x = (Math.random() - 0.5) * 20;
     cube.position.y = (Math.random() - 0.5) * 20;
     cube.position.z = (Math.random() - 0.5) * 20;
-
     cube.rotation.x = Math.random() * Math.PI;
     cube.rotation.y = Math.random() * Math.PI;
 
